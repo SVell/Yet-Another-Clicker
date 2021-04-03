@@ -1,0 +1,1790 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.2f1 (8fd9074bf66c) revision 9427207'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Enterprise; OS build 19041.867; Version 2004; 64bit' Language: 'en' Physical Memory: 16334 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+E:\UnityEngine\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/Unity/Projects/Yet Another Clicker
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+57146
+Successfully changed project path to: E:/Unity/Projects/Yet Another Clicker
+E:/Unity/Projects/Yet Another Clicker
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 36.96 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.2f1 (8fd9074bf66c)
+[Subsystems] Discovering subsystems at path E:/UnityEngine/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/Unity/Projects/Yet Another Clicker/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 3GB (ID=0x1c02)
+    Vendor:   
+    VRAM:     2988 MB
+    Driver:   27.21.14.6079
+Initialize mono
+Mono path[0] = 'E:/UnityEngine/Editor/Data/Managed'
+Mono path[1] = 'E:/UnityEngine/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'E:/UnityEngine/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56568
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/UnityEngine/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: E:/UnityEngine/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001096 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 36.62 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.761 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000675 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 35.83 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.760 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1813 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.2 MB.
+System memory in use after: 85.1 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2255.
+Total: 2.271800 ms (FindLiveObjects: 0.253800 ms CreateObjectMapping: 0.043300 ms MarkObjects: 1.831800 ms  DeleteObjects: 0.141900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Sprites/BG/game_background_3/layers
+  artifactKey: Guid(5bd88c57064defb49b83c61745f3bf39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/BG/game_background_3/layers using Guid(5bd88c57064defb49b83c61745f3bf39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e156e73142c76385e1ac09a426141a3f') in 0.008599 seconds
+  Import took 0.011406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Sprites/BG/game_background_3/layers/clouds_1.png
+  artifactKey: Guid(2b9d77c8b82115544b6961cfd22c01f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/BG/game_background_3/layers/clouds_1.png using Guid(2b9d77c8b82115544b6961cfd22c01f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4193aa93eb541b78407515eddaf18cf') in 0.106235 seconds
+  Import took 0.108695 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Sprites/BG/game_background_3/layers/clouds_2.png
+  artifactKey: Guid(158049ed9ea684c449b2a3d146b89bd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/BG/game_background_3/layers/clouds_2.png using Guid(158049ed9ea684c449b2a3d146b89bd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f60b2139a69bf6f6ccf14953b66442b') in 0.019915 seconds
+  Import took 0.022534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Sprites/BG/game_background_3/layers/ground_1.png
+  artifactKey: Guid(38f11fd58bb534c47bd3cd6e3569a0f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/BG/game_background_3/layers/ground_1.png using Guid(38f11fd58bb534c47bd3cd6e3569a0f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c5674a4396759e148481d650b8a3c77') in 0.022459 seconds
+  Import took 0.025001 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Sprites/BG/game_background_3/layers/rocks.png
+  artifactKey: Guid(76337d03b7d9c2b4ca967490ed5ff55e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/BG/game_background_3/layers/rocks.png using Guid(76337d03b7d9c2b4ca967490ed5ff55e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71e5af1023b85ab12add7ecd6a9b70eb') in 0.021311 seconds
+  Import took 0.024004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Sprites/BG/game_background_3/layers/ground_2.png
+  artifactKey: Guid(5fd859a459f91504bb59a560234e18b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/BG/game_background_3/layers/ground_2.png using Guid(5fd859a459f91504bb59a560234e18b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2b6f4ce4985263f35b9436f0d7cbd66') in 0.019496 seconds
+  Import took 0.022359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/Sprites/BG/game_background_3/layers/plant.png
+  artifactKey: Guid(1bb97661568dc5b41b98b2fee021ae27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/BG/game_background_3/layers/plant.png using Guid(1bb97661568dc5b41b98b2fee021ae27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28d69d3d4ea9c69a8bc75057d7dc1a7d') in 0.021068 seconds
+  Import took 0.023920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/Sprites/BG/game_background_3/layers/ground_3.png
+  artifactKey: Guid(a56c4aed66f5e41468f581ff4b222589) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/BG/game_background_3/layers/ground_3.png using Guid(a56c4aed66f5e41468f581ff4b222589) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e89aa96bb272bc726b0389020801652') in 0.023089 seconds
+  Import took 0.026004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Sprites/BG/game_background_3/layers/sky.png
+  artifactKey: Guid(012ca09d7de38914d91e0e2ce175aaf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/BG/game_background_3/layers/sky.png using Guid(012ca09d7de38914d91e0e2ce175aaf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb431d8dd9d2076418177396dacbc540') in 0.020882 seconds
+  Import took 0.023724 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.459612 seconds.
+  path: Assets/Sprites/Units/Wraith_01/Vector Parts
+  artifactKey: Guid(fd33f63ff9e55544d8d2c5e501758b19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/Vector Parts using Guid(fd33f63ff9e55544d8d2c5e501758b19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5021523e304a012ad7f172aa39c59ee8') in 0.007337 seconds
+  Import took 0.010278 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.064488 seconds.
+  path: Assets/Sprites/Units/Wraith_01/Vector Parts/Body.png
+  artifactKey: Guid(cda6bbdd4f8ec8949a543553f95eee9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/Vector Parts/Body.png using Guid(cda6bbdd4f8ec8949a543553f95eee9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b94389b8cac18db9e97284dd09cd2ea5') in 0.021294 seconds
+  Import took 0.024434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/Sprites/Units/Wraith_01/Vector Parts/Left Hand.png
+  artifactKey: Guid(b7edd908755359f4cb3780fae12c9e3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/Vector Parts/Left Hand.png using Guid(b7edd908755359f4cb3780fae12c9e3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd9137274b01d787da7fe9974fd411f6') in 0.020091 seconds
+  Import took 0.022504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/Sprites/Units/Wraith_01/Vector Parts/Head.png
+  artifactKey: Guid(1bb29a7eb7b954840961faf33031369a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/Vector Parts/Head.png using Guid(1bb29a7eb7b954840961faf33031369a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e101b9f3bb3f9ad55fcf47a55d444433') in 0.019880 seconds
+  Import took 0.022385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/Sprites/Units/Wraith_01/Vector Parts/Spells Effect.png
+  artifactKey: Guid(687d7b4eea7394a45809b9bca6c2a60b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/Vector Parts/Spells Effect.png using Guid(687d7b4eea7394a45809b9bca6c2a60b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bbb87728db56dd8be348e284cb5a4f9') in 0.019246 seconds
+  Import took 0.022138 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Sprites/Units/Wraith_01/Vector Parts/Face 03.png
+  artifactKey: Guid(4552313f3a467a94e8cfbc9cc291259f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/Vector Parts/Face 03.png using Guid(4552313f3a467a94e8cfbc9cc291259f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8d6eff4bf41df1e075996f157dec462') in 0.020547 seconds
+  Import took 0.023170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Sprites/Units/Wraith_01/Vector Parts/Left Arm.png
+  artifactKey: Guid(58d2b6254aeff9242a6aa296f6beda1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/Vector Parts/Left Arm.png using Guid(58d2b6254aeff9242a6aa296f6beda1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6519d1265201928ba19f875f66df022e') in 0.018390 seconds
+  Import took 0.021034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Sprites/Units/Wraith_01/Vector Parts/Right Hand.png
+  artifactKey: Guid(4d831ca4cdfe9564e954801fc0c6020b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/Vector Parts/Right Hand.png using Guid(4d831ca4cdfe9564e954801fc0c6020b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48f48c65efc5cd7c3a187f2d1eb7a223') in 0.017476 seconds
+  Import took 0.020227 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Sprites/Units/Wraith_01/Vector Parts/Right Arm.png
+  artifactKey: Guid(91041495844162d46998081969c5caf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/Vector Parts/Right Arm.png using Guid(91041495844162d46998081969c5caf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '705e95687e2a7f9dbe76881613d7b89b') in 0.017900 seconds
+  Import took 0.020860 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/Sprites/Units/Wraith_01/Vector Parts/Face 01.png
+  artifactKey: Guid(5ab0ee7d7878e944487e63fc3f3dd8f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/Vector Parts/Face 01.png using Guid(5ab0ee7d7878e944487e63fc3f3dd8f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18cca4c2ddb5bc2e22a8274fff6f8660') in 0.017964 seconds
+  Import took 0.020529 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/Sprites/Units/Wraith_01/Vector Parts/Face 02.png
+  artifactKey: Guid(07c473dd4d9628e42ace7c54f92eacd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/Vector Parts/Face 02.png using Guid(07c473dd4d9628e42ace7c54f92eacd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a038e70982e5a0ce39f4967f3dfde001') in 0.019421 seconds
+  Import took 0.022037 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.241797 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Dying
+  artifactKey: Guid(d7f3744a5fd1c984db7786ae37ace3ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Dying using Guid(d7f3744a5fd1c984db7786ae37ace3ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e8652dd64561da558f7d9bae094bd87') in 0.006720 seconds
+  Import took 0.009631 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.051589 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Dying/Wraith_01_Dying_000.png
+  artifactKey: Guid(9e9728cc353ac1f488835d030bf815ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Dying/Wraith_01_Dying_000.png using Guid(9e9728cc353ac1f488835d030bf815ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f45608a25a2d34eec72e280ef32a324e') in 0.020592 seconds
+  Import took 0.023962 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Dying/Wraith_01_Dying_014.png
+  artifactKey: Guid(495685f4a02d1534898d764f280d4609) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Dying/Wraith_01_Dying_014.png using Guid(495685f4a02d1534898d764f280d4609) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63869c72856dacb769b30fb2ac7359a0') in 0.018906 seconds
+  Import took 0.021290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Dying/Wraith_01_Dying_010.png
+  artifactKey: Guid(1fba8ac5adc728c42b064d26873d88ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Dying/Wraith_01_Dying_010.png using Guid(1fba8ac5adc728c42b064d26873d88ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6d78d3169113b695b674bc1369d4344') in 0.019304 seconds
+  Import took 0.022353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Dying/Wraith_01_Dying_006.png
+  artifactKey: Guid(96e9e7d4912bcbe42a097137554a0da4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Dying/Wraith_01_Dying_006.png using Guid(96e9e7d4912bcbe42a097137554a0da4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c53f9ce3221c37f19f5503b7e707e65') in 0.019208 seconds
+  Import took 0.021959 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Dying/Wraith_01_Dying_004.png
+  artifactKey: Guid(6f1c28f41b03dfa4880154940b341a1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Dying/Wraith_01_Dying_004.png using Guid(6f1c28f41b03dfa4880154940b341a1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3985ed37263cfecbc8655ef1390022a') in 0.020114 seconds
+  Import took 0.022592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Dying/Wraith_01_Dying_012.png
+  artifactKey: Guid(97589039547a6e04ea876c9c1d3ada01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Dying/Wraith_01_Dying_012.png using Guid(97589039547a6e04ea876c9c1d3ada01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47e472c1ab5455151eacfeb02bebe31b') in 0.019005 seconds
+  Import took 0.021700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Dying/Wraith_01_Dying_002.png
+  artifactKey: Guid(03e07733d49bf54489d4dc48105dc4cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Dying/Wraith_01_Dying_002.png using Guid(03e07733d49bf54489d4dc48105dc4cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bce60a035b054cbb348441b0be79aebf') in 0.020830 seconds
+  Import took 0.023780 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Dying/Wraith_01_Dying_008.png
+  artifactKey: Guid(73ce0f735e8e503498956ae8cfd7c3a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Dying/Wraith_01_Dying_008.png using Guid(73ce0f735e8e503498956ae8cfd7c3a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '420ae0c0a6b88d01bbc1a137799d1f85') in 0.019256 seconds
+  Import took 0.021986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Dying/Wraith_01_Dying_011.png
+  artifactKey: Guid(f3f75fc2497fc034990a78f6cc7aa1b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Dying/Wraith_01_Dying_011.png using Guid(f3f75fc2497fc034990a78f6cc7aa1b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd435ea83a9bc5a1895cea2d4ec4891d7') in 0.018908 seconds
+  Import took 0.021864 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Dying/Wraith_01_Dying_001.png
+  artifactKey: Guid(5a4f40d47adcee84e8f0484b664bfd13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Dying/Wraith_01_Dying_001.png using Guid(5a4f40d47adcee84e8f0484b664bfd13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93e4bb497f989040188119df25920024') in 0.020178 seconds
+  Import took 0.023171 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Dying/Wraith_01_Dying_007.png
+  artifactKey: Guid(ed9e82c2e9d295b4d97aa9688e9aaf99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Dying/Wraith_01_Dying_007.png using Guid(ed9e82c2e9d295b4d97aa9688e9aaf99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '098ae37d1cb413dcb3eb7bf87a1f3b13') in 0.018888 seconds
+  Import took 0.021312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Dying/Wraith_01_Dying_003.png
+  artifactKey: Guid(1c8ad638c356ae74298b22c78e8224c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Dying/Wraith_01_Dying_003.png using Guid(1c8ad638c356ae74298b22c78e8224c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4af286b84acf1ad5caedd76744efe615') in 0.020004 seconds
+  Import took 0.023145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Dying/Wraith_01_Dying_013.png
+  artifactKey: Guid(f33173b850d33354da0a062131e60498) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Dying/Wraith_01_Dying_013.png using Guid(f33173b850d33354da0a062131e60498) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83ba6618e6b12e9b81dd0a4ff7f4257f') in 0.018954 seconds
+  Import took 0.021575 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Dying/Wraith_01_Dying_003.png
+  artifactKey: Guid(1c8ad638c356ae74298b22c78e8224c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Dying/Wraith_01_Dying_003.png using Guid(1c8ad638c356ae74298b22c78e8224c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4af286b84acf1ad5caedd76744efe615') in 0.010179 seconds
+  Import took 0.012772 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Dying/Wraith_01_Dying_009.png
+  artifactKey: Guid(0bf899d5f5e367548abcb83078f3b6eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Dying/Wraith_01_Dying_009.png using Guid(0bf899d5f5e367548abcb83078f3b6eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cabbee4a577f4b01d0db26b5428a8ea') in 0.018810 seconds
+  Import took 0.021895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Dying/Wraith_01_Dying_005.png
+  artifactKey: Guid(4840d4387ebbb0b479fc10c87f938f9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Dying/Wraith_01_Dying_005.png using Guid(4840d4387ebbb0b479fc10c87f938f9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18a3d6fb315e9bbbc6d797a913f3a88c') in 0.019752 seconds
+  Import took 0.022364 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001059 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Dying/Wraith_01_Dying_005.png
+  artifactKey: Guid(4840d4387ebbb0b479fc10c87f938f9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Dying/Wraith_01_Dying_005.png using Guid(4840d4387ebbb0b479fc10c87f938f9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18a3d6fb315e9bbbc6d797a913f3a88c') in 0.010457 seconds
+  Import took 0.013371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.041344 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Casting Spells
+  artifactKey: Guid(a6f235c226451634cbf8cbf15df5555b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Casting Spells using Guid(a6f235c226451634cbf8cbf15df5555b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42978713b66256af1a3b086860062be3') in 0.005494 seconds
+  Import took 0.008525 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000424 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Casting Spells
+  artifactKey: Guid(a6f235c226451634cbf8cbf15df5555b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Casting Spells using Guid(a6f235c226451634cbf8cbf15df5555b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42978713b66256af1a3b086860062be3') in 0.001671 seconds
+  Import took 0.004108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.057098 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Casting Spells/Wraith_01_Casting Spells_000.png
+  artifactKey: Guid(df2d22ec65b9ad74eab4ec2e6673f59d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Casting Spells/Wraith_01_Casting Spells_000.png using Guid(df2d22ec65b9ad74eab4ec2e6673f59d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3319c510edb27be8c5b53d559f2cc425') in 0.019312 seconds
+  Import took 0.022263 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Casting Spells/Wraith_01_Casting Spells_007.png
+  artifactKey: Guid(a7283c52f608e114d816e82df3dd50e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Casting Spells/Wraith_01_Casting Spells_007.png using Guid(a7283c52f608e114d816e82df3dd50e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eae0c7e47c1fe584f76274773451596e') in 0.020659 seconds
+  Import took 0.023363 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Casting Spells/Wraith_01_Casting Spells_005.png
+  artifactKey: Guid(6327d3f898b66db47a7f3ea34c6e39dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Casting Spells/Wraith_01_Casting Spells_005.png using Guid(6327d3f898b66db47a7f3ea34c6e39dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8634a2bae3b52fa256731fe29796a76') in 0.020096 seconds
+  Import took 0.022935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Casting Spells/Wraith_01_Casting Spells_011.png
+  artifactKey: Guid(1f1247b6c3683644ca358fada64812ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Casting Spells/Wraith_01_Casting Spells_011.png using Guid(1f1247b6c3683644ca358fada64812ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2673edd5d8cacc578acdbf661264939e') in 0.020019 seconds
+  Import took 0.022713 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Casting Spells/Wraith_01_Casting Spells_010.png
+  artifactKey: Guid(dade043006df3574683c0fd83916831b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Casting Spells/Wraith_01_Casting Spells_010.png using Guid(dade043006df3574683c0fd83916831b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b890d323ff61854bc7398c6816561b6e') in 0.019863 seconds
+  Import took 0.022465 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Casting Spells/Wraith_01_Casting Spells_008.png
+  artifactKey: Guid(d4a3afd68c95dfa47a89d27cb976ada1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Casting Spells/Wraith_01_Casting Spells_008.png using Guid(d4a3afd68c95dfa47a89d27cb976ada1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40f81c26ad3986e4bf1e0cb705f1129d') in 0.019217 seconds
+  Import took 0.021691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Casting Spells/Wraith_01_Casting Spells_003.png
+  artifactKey: Guid(ab1ce936d1ae3d346bf20fae1da969ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Casting Spells/Wraith_01_Casting Spells_003.png using Guid(ab1ce936d1ae3d346bf20fae1da969ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3effb4a772a9dfa7f341e6d69e23f7d') in 0.018275 seconds
+  Import took 0.021158 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Casting Spells/Wraith_01_Casting Spells_014.png
+  artifactKey: Guid(0f60e4bff686b4140a608dd368cf1efb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Casting Spells/Wraith_01_Casting Spells_014.png using Guid(0f60e4bff686b4140a608dd368cf1efb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14a91c5d7a38eb09c1f4ad177cf90d2e') in 0.020124 seconds
+  Import took 0.022841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Casting Spells/Wraith_01_Casting Spells_015.png
+  artifactKey: Guid(efbe124c278a1e0459768ccb9a2360c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Casting Spells/Wraith_01_Casting Spells_015.png using Guid(efbe124c278a1e0459768ccb9a2360c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cf102737835b8e3181ec886ba06d496') in 0.020004 seconds
+  Import took 0.022658 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Casting Spells/Wraith_01_Casting Spells_001.png
+  artifactKey: Guid(4d8e3ab90d08ffb48bd1eda43410fb19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Casting Spells/Wraith_01_Casting Spells_001.png using Guid(4d8e3ab90d08ffb48bd1eda43410fb19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78cdd32dcf1afd2d6fb7eb277a464748') in 0.020885 seconds
+  Import took 0.024096 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Casting Spells/Wraith_01_Casting Spells_006.png
+  artifactKey: Guid(fb02d5ee83e52f747aaee305b0641cbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Casting Spells/Wraith_01_Casting Spells_006.png using Guid(fb02d5ee83e52f747aaee305b0641cbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edd73a54ef495beb5b4f633c2c436f5d') in 0.021488 seconds
+  Import took 0.024329 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Casting Spells/Wraith_01_Casting Spells_013.png
+  artifactKey: Guid(76b8597d88be14e47bac789634c284c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Casting Spells/Wraith_01_Casting Spells_013.png using Guid(76b8597d88be14e47bac789634c284c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b774e62cc3dbd1bbc1d764b2f17dfe2f') in 0.018430 seconds
+  Import took 0.021015 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Casting Spells/Wraith_01_Casting Spells_012.png
+  artifactKey: Guid(5c0bb2ac131a39f4ca8cddce4eb9c20b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Casting Spells/Wraith_01_Casting Spells_012.png using Guid(5c0bb2ac131a39f4ca8cddce4eb9c20b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '082cd251210343f1b0b1c6ceca02a1d8') in 0.019971 seconds
+  Import took 0.022651 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Casting Spells/Wraith_01_Casting Spells_016.png
+  artifactKey: Guid(5b9667ca276c27d418626ed3638626fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Casting Spells/Wraith_01_Casting Spells_016.png using Guid(5b9667ca276c27d418626ed3638626fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2190d43844436f0a99b47fd0da88011c') in 0.019377 seconds
+  Import took 0.021861 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Casting Spells/Wraith_01_Casting Spells_002.png
+  artifactKey: Guid(75b69cbc51048e74abe287daaec7137e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Casting Spells/Wraith_01_Casting Spells_002.png using Guid(75b69cbc51048e74abe287daaec7137e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66a3ee11f11fad5ca7f6dd5c85c03f5b') in 0.020881 seconds
+  Import took 0.023467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Casting Spells/Wraith_01_Casting Spells_009.png
+  artifactKey: Guid(a7f52cd166f8d70448096dfbedc55f4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Casting Spells/Wraith_01_Casting Spells_009.png using Guid(a7f52cd166f8d70448096dfbedc55f4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5cf7fc9031c607946731ce46c1a55e0') in 0.019706 seconds
+  Import took 0.022496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Casting Spells/Wraith_01_Casting Spells_004.png
+  artifactKey: Guid(b01b92965b4b8af459b4716aac348983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Casting Spells/Wraith_01_Casting Spells_004.png using Guid(b01b92965b4b8af459b4716aac348983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd09f28d644eb25bf8e7af22732db4483') in 0.019075 seconds
+  Import took 0.022119 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Casting Spells/Wraith_01_Casting Spells_017.png
+  artifactKey: Guid(e9111b0e96a16c44ba834045359366fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Casting Spells/Wraith_01_Casting Spells_017.png using Guid(e9111b0e96a16c44ba834045359366fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2044cf071308347502a25c351e38548') in 0.019801 seconds
+  Import took 0.022859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.665820 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Hurt
+  artifactKey: Guid(026682b90d8592046beabee608dfa481) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Hurt using Guid(026682b90d8592046beabee608dfa481) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '159f3e5fdcee1c403cca08f89adda179') in 0.005202 seconds
+  Import took 0.008286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000679 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Hurt
+  artifactKey: Guid(026682b90d8592046beabee608dfa481) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Hurt using Guid(026682b90d8592046beabee608dfa481) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '159f3e5fdcee1c403cca08f89adda179') in 0.001596 seconds
+  Import took 0.003525 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.054140 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Hurt/Wraith_01_Hurt_000.png
+  artifactKey: Guid(ec87fc9b322802b4c80351cd76a2a510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Hurt/Wraith_01_Hurt_000.png using Guid(ec87fc9b322802b4c80351cd76a2a510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd57f67b94b53efefe74f1845768ac81f') in 0.021133 seconds
+  Import took 0.024350 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Hurt/Wraith_01_Hurt_001.png
+  artifactKey: Guid(5cda4c78007101048b56ea85f10f7fc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Hurt/Wraith_01_Hurt_001.png using Guid(5cda4c78007101048b56ea85f10f7fc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c81c7c72144f28f74178403bf09af0b') in 0.018167 seconds
+  Import took 0.020686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Hurt/Wraith_01_Hurt_011.png
+  artifactKey: Guid(1f294371f119db446be2f5e6783c2390) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Hurt/Wraith_01_Hurt_011.png using Guid(1f294371f119db446be2f5e6783c2390) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd9230c10c6f1d495b2da77ff062336b') in 0.019444 seconds
+  Import took 0.021952 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Hurt/Wraith_01_Hurt_002.png
+  artifactKey: Guid(6bb5e322c3de230418dd440ea7c4de5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Hurt/Wraith_01_Hurt_002.png using Guid(6bb5e322c3de230418dd440ea7c4de5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '962ff561c70ecd2b44e46e1f1182906b') in 0.020657 seconds
+  Import took 0.023113 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Hurt/Wraith_01_Hurt_005.png
+  artifactKey: Guid(7414b51f482e97243b3097a0958815d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Hurt/Wraith_01_Hurt_005.png using Guid(7414b51f482e97243b3097a0958815d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e8db322f59eda44f7857ebf46d3e80e') in 0.019386 seconds
+  Import took 0.022020 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Hurt/Wraith_01_Hurt_003.png
+  artifactKey: Guid(1cfe12618dc5b964596b93b22fe54f19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Hurt/Wraith_01_Hurt_003.png using Guid(1cfe12618dc5b964596b93b22fe54f19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac62796f05ff09d387ae7e8c6d09b0ca') in 0.019776 seconds
+  Import took 0.022550 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Hurt/Wraith_01_Hurt_010.png
+  artifactKey: Guid(7d65c14f40045a143b465bedbb28e3e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Hurt/Wraith_01_Hurt_010.png using Guid(7d65c14f40045a143b465bedbb28e3e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbc96d8c9edc6011766173a16a0b0bdd') in 0.021594 seconds
+  Import took 0.024537 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Hurt/Wraith_01_Hurt_006.png
+  artifactKey: Guid(654c767d6175fce4aaccb47bb087aa42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Hurt/Wraith_01_Hurt_006.png using Guid(654c767d6175fce4aaccb47bb087aa42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf909dd834679f018c2f1ede90f7a148') in 0.019044 seconds
+  Import took 0.021662 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Hurt/Wraith_01_Hurt_008.png
+  artifactKey: Guid(4910e5e17f5ac8c46a3f8cc6be8daa12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Hurt/Wraith_01_Hurt_008.png using Guid(4910e5e17f5ac8c46a3f8cc6be8daa12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f5ae5a1433d4cc151da0e12c6d66e6d') in 0.018798 seconds
+  Import took 0.021823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Hurt/Wraith_01_Hurt_007.png
+  artifactKey: Guid(ba6c8d470fb18d74183d1e17c020e4b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Hurt/Wraith_01_Hurt_007.png using Guid(ba6c8d470fb18d74183d1e17c020e4b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1babc1b30e56ac69f1815833c339206') in 0.019330 seconds
+  Import took 0.021774 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Hurt/Wraith_01_Hurt_004.png
+  artifactKey: Guid(cea58249050a2094582014667b98fbcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Hurt/Wraith_01_Hurt_004.png using Guid(cea58249050a2094582014667b98fbcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e4664a57d63e2f3bc8b9bf620f8beef') in 0.018695 seconds
+  Import took 0.021292 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Hurt/Wraith_01_Hurt_009.png
+  artifactKey: Guid(a499c7d14bf280a49a397807c56d8c62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Hurt/Wraith_01_Hurt_009.png using Guid(a499c7d14bf280a49a397807c56d8c62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ef29bffe8a99d931253a2f79f342f5c') in 0.019402 seconds
+  Import took 0.021943 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.303895 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Idle Blink
+  artifactKey: Guid(731870cf39354c344abf6db36806f72c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Idle Blink using Guid(731870cf39354c344abf6db36806f72c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2070924764332c3b18b2f5acd1f0a3ea') in 0.007517 seconds
+  Import took 0.010731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.059113 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Idle Blink/Wraith_01_Idle Blinking_000.png
+  artifactKey: Guid(20ea3ea2bac13384d8401f98a0153642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Idle Blink/Wraith_01_Idle Blinking_000.png using Guid(20ea3ea2bac13384d8401f98a0153642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ba7ce11d219ac9eda51f2a52a00b609') in 0.017379 seconds
+  Import took 0.020606 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Idle Blink/Wraith_01_Idle Blinking_009.png
+  artifactKey: Guid(fc391dfd64faca54e8abde1f4858c56b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Idle Blink/Wraith_01_Idle Blinking_009.png using Guid(fc391dfd64faca54e8abde1f4858c56b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '245bf6836f2b1521dea3be377010dfde') in 0.019834 seconds
+  Import took 0.022739 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Idle Blink/Wraith_01_Idle Blinking_010.png
+  artifactKey: Guid(6cbd0cf01d3cabe40b61d557aac259f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Idle Blink/Wraith_01_Idle Blinking_010.png using Guid(6cbd0cf01d3cabe40b61d557aac259f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9105449ba619fea26f82132792f30c3b') in 0.019108 seconds
+  Import took 0.021961 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Idle Blink/Wraith_01_Idle Blinking_006.png
+  artifactKey: Guid(0fd6958b5ccaea047b61a62951f3e960) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Idle Blink/Wraith_01_Idle Blinking_006.png using Guid(0fd6958b5ccaea047b61a62951f3e960) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '490df46e158d23573d9bd279bef0de67') in 0.024857 seconds
+  Import took 0.027958 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Idle Blink/Wraith_01_Idle Blinking_005.png
+  artifactKey: Guid(0f072b0b9caba754ebd8f121c2412895) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Idle Blink/Wraith_01_Idle Blinking_005.png using Guid(0f072b0b9caba754ebd8f121c2412895) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd82c6a97822cb32bea97b284cce8c41') in 0.019135 seconds
+  Import took 0.021886 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Idle Blink/Wraith_01_Idle Blinking_007.png
+  artifactKey: Guid(0cfefd61aea923641883bef02e133607) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Idle Blink/Wraith_01_Idle Blinking_007.png using Guid(0cfefd61aea923641883bef02e133607) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3b4549c7482614a736197981a0b032d') in 0.018649 seconds
+  Import took 0.021202 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Idle Blink/Wraith_01_Idle Blinking_003.png
+  artifactKey: Guid(5d878f4e86f81d445bed9fb65cfd0497) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Idle Blink/Wraith_01_Idle Blinking_003.png using Guid(5d878f4e86f81d445bed9fb65cfd0497) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f022d2d828e6d5c3c38201a27be3bb62') in 0.020242 seconds
+  Import took 0.023378 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Idle Blink/Wraith_01_Idle Blinking_011.png
+  artifactKey: Guid(ec1060af8bb6b604bbb2df46428bc11b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Idle Blink/Wraith_01_Idle Blinking_011.png using Guid(ec1060af8bb6b604bbb2df46428bc11b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39c3586b651d28fb2fd64af0438af0a1') in 0.022671 seconds
+  Import took 0.025621 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Idle Blink/Wraith_01_Idle Blinking_004.png
+  artifactKey: Guid(f1a91fff0ee15ff41a16513b285f097d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Idle Blink/Wraith_01_Idle Blinking_004.png using Guid(f1a91fff0ee15ff41a16513b285f097d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d62ea5aadd7088bc98aafceb1092d8f') in 0.018690 seconds
+  Import took 0.021647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Idle Blink/Wraith_01_Idle Blinking_002.png
+  artifactKey: Guid(64f3ffd950a0a034b9292e1629044b62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Idle Blink/Wraith_01_Idle Blinking_002.png using Guid(64f3ffd950a0a034b9292e1629044b62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78e63f5adb05d4568b2c4647fe2ce578') in 0.018895 seconds
+  Import took 0.022002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Idle Blink/Wraith_01_Idle Blinking_001.png
+  artifactKey: Guid(703499922153fc84aa981e5b1a99cd40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Idle Blink/Wraith_01_Idle Blinking_001.png using Guid(703499922153fc84aa981e5b1a99cd40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ddf35f5ce56d564e92ba9b2a99021e7') in 0.019261 seconds
+  Import took 0.021844 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Idle Blink/Wraith_01_Idle Blinking_008.png
+  artifactKey: Guid(0700998b60de1494c8dd4b1e1b8fab9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Idle Blink/Wraith_01_Idle Blinking_008.png using Guid(0700998b60de1494c8dd4b1e1b8fab9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0a892736bd82ad88fab789afa1a5463') in 0.018627 seconds
+  Import took 0.021192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.816438 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Taunt
+  artifactKey: Guid(2600b5c5e32d54d4583e62da40ff2fe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Taunt using Guid(2600b5c5e32d54d4583e62da40ff2fe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9394ee2894157dc666dc2e98866026eb') in 0.006720 seconds
+  Import took 0.009610 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.058872 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Taunt/Wraith_01_Taunt_000.png
+  artifactKey: Guid(977be5f0ced272148adfd0f12f51bdc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Taunt/Wraith_01_Taunt_000.png using Guid(977be5f0ced272148adfd0f12f51bdc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b378939da95b46bd76e1271ef351ba3') in 0.018045 seconds
+  Import took 0.021090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Taunt/Wraith_01_Taunt_013.png
+  artifactKey: Guid(6994d43786f94294aa53e6aafd6bdbd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Taunt/Wraith_01_Taunt_013.png using Guid(6994d43786f94294aa53e6aafd6bdbd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee2af185dccf6de5b367191f4156c32b') in 0.018884 seconds
+  Import took 0.021647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Taunt/Wraith_01_Taunt_006.png
+  artifactKey: Guid(b39e71fb74120b547b513b09dc7431e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Taunt/Wraith_01_Taunt_006.png using Guid(b39e71fb74120b547b513b09dc7431e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b05f543e2ca652e5f348dab868b4e8e7') in 0.030918 seconds
+  Import took 0.033570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Taunt/Wraith_01_Taunt_012.png
+  artifactKey: Guid(f8b66627d49554946844b8dd16b7c236) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Taunt/Wraith_01_Taunt_012.png using Guid(f8b66627d49554946844b8dd16b7c236) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c7bd5675170593cb6d17f6c7bfa8e31') in 0.018964 seconds
+  Import took 0.021878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Taunt/Wraith_01_Taunt_003.png
+  artifactKey: Guid(49f1fe1703ffe6647b575a792b3db5f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Taunt/Wraith_01_Taunt_003.png using Guid(49f1fe1703ffe6647b575a792b3db5f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a39afa06c34a749863d0b7bd45b0aec3') in 0.019052 seconds
+  Import took 0.021653 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Taunt/Wraith_01_Taunt_007.png
+  artifactKey: Guid(eff2beb177bfe3246bdc23e02ea6daad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Taunt/Wraith_01_Taunt_007.png using Guid(eff2beb177bfe3246bdc23e02ea6daad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65b9f80e4834cd5dbb64e208e67ec25c') in 0.018047 seconds
+  Import took 0.020487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Taunt/Wraith_01_Taunt_011.png
+  artifactKey: Guid(70434ef9f12d6144ca3c3280caacd311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Taunt/Wraith_01_Taunt_011.png using Guid(70434ef9f12d6144ca3c3280caacd311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea653eb76cf475269f42a7d9f5c9fb78') in 0.019292 seconds
+  Import took 0.022203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Taunt/Wraith_01_Taunt_004.png
+  artifactKey: Guid(cea22cb7776b6674d9e3b87b6f7cefdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Taunt/Wraith_01_Taunt_004.png using Guid(cea22cb7776b6674d9e3b87b6f7cefdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdae4e1766fdf07f46f1136de192d8ca') in 0.020129 seconds
+  Import took 0.023025 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Taunt/Wraith_01_Taunt_010.png
+  artifactKey: Guid(cb89185062627dd408eeea1d8f275ee6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Taunt/Wraith_01_Taunt_010.png using Guid(cb89185062627dd408eeea1d8f275ee6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bbc6bfed77c959843cdd6840e7f1885') in 0.019536 seconds
+  Import took 0.022171 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Taunt/Wraith_01_Taunt_017.png
+  artifactKey: Guid(8582178049c6f874caf9383927fb1251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Taunt/Wraith_01_Taunt_017.png using Guid(8582178049c6f874caf9383927fb1251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '195280a42b0bbbb4853b00753d4deda5') in 0.020009 seconds
+  Import took 0.022769 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Taunt/Wraith_01_Taunt_016.png
+  artifactKey: Guid(51b72b9070298c44f80113995769653a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Taunt/Wraith_01_Taunt_016.png using Guid(51b72b9070298c44f80113995769653a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afa27827fb562d512352444c548577ca') in 0.019591 seconds
+  Import took 0.022629 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Taunt/Wraith_01_Taunt_005.png
+  artifactKey: Guid(1e38b0cc4ca9ca54caf220e46aa99c18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Taunt/Wraith_01_Taunt_005.png using Guid(1e38b0cc4ca9ca54caf220e46aa99c18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '066d33a4f649dcb041254ca620946603') in 0.020850 seconds
+  Import took 0.023683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Taunt/Wraith_01_Taunt_001.png
+  artifactKey: Guid(87262d1eb7830a84abad0ed846446e03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Taunt/Wraith_01_Taunt_001.png using Guid(87262d1eb7830a84abad0ed846446e03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95efc36e7d0ca77f44642d42bf805e32') in 0.019967 seconds
+  Import took 0.022468 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Taunt/Wraith_01_Taunt_015.png
+  artifactKey: Guid(6b8da97892f3c5c458f9c6a5c2fefe5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Taunt/Wraith_01_Taunt_015.png using Guid(6b8da97892f3c5c458f9c6a5c2fefe5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc4ec33bdb6c8b67b0228dd4000b9fe5') in 0.020074 seconds
+  Import took 0.022818 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Taunt/Wraith_01_Taunt_014.png
+  artifactKey: Guid(0c4787231742b3e4f8ce8d9215bb6bcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Taunt/Wraith_01_Taunt_014.png using Guid(0c4787231742b3e4f8ce8d9215bb6bcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da9e81170b8a47cfd742bafce18dc4f0') in 0.020962 seconds
+  Import took 0.023660 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Taunt/Wraith_01_Taunt_009.png
+  artifactKey: Guid(18a7fc2d726d87b46a8412433ebf7cf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Taunt/Wraith_01_Taunt_009.png using Guid(18a7fc2d726d87b46a8412433ebf7cf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8de493b56616e5465b3ae11d87036ba') in 0.021018 seconds
+  Import took 0.023825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Taunt/Wraith_01_Taunt_002.png
+  artifactKey: Guid(b8d32280865c40c4e8b6b9b3e4b1af16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Taunt/Wraith_01_Taunt_002.png using Guid(b8d32280865c40c4e8b6b9b3e4b1af16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9487effe80938495ed077e788a4f5c19') in 0.019874 seconds
+  Import took 0.022372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Taunt/Wraith_01_Taunt_008.png
+  artifactKey: Guid(2c243a08a369e9740b80f9d6a2db054b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Taunt/Wraith_01_Taunt_008.png using Guid(2c243a08a369e9740b80f9d6a2db054b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ce7b75209ff583d6aa908632af5c805') in 0.019787 seconds
+  Import took 0.022304 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.032561 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Walking
+  artifactKey: Guid(ca7a07cfbbea99e47a51e8430a353435) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Walking using Guid(ca7a07cfbbea99e47a51e8430a353435) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0f8506bd29ec52efb98b1c1435067e9') in 0.007575 seconds
+  Import took 0.010676 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.063845 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Walking/Wraith_01_Moving Forward_000.png
+  artifactKey: Guid(846d3fbdd956d66419777623592d612b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Walking/Wraith_01_Moving Forward_000.png using Guid(846d3fbdd956d66419777623592d612b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9e6ba86c79a6c86cbf2cce8903b401d') in 0.018983 seconds
+  Import took 0.021900 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Walking/Wraith_01_Moving Forward_009.png
+  artifactKey: Guid(bb11787bb19d9e2489329698e10d13da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Walking/Wraith_01_Moving Forward_009.png using Guid(bb11787bb19d9e2489329698e10d13da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffc733747d2eb6bd28654329a21e47c7') in 0.018568 seconds
+  Import took 0.021476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Walking/Wraith_01_Moving Forward_010.png
+  artifactKey: Guid(5e577066367b52142b8e14f218d11af0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Walking/Wraith_01_Moving Forward_010.png using Guid(5e577066367b52142b8e14f218d11af0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0438314424c4540161cdada86649ecc') in 0.019192 seconds
+  Import took 0.022007 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Walking/Wraith_01_Moving Forward_011.png
+  artifactKey: Guid(a1e3eb5e827891f47baf9792bbff3b51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Walking/Wraith_01_Moving Forward_011.png using Guid(a1e3eb5e827891f47baf9792bbff3b51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0f79fc97458268b03a2b36f1b2a632b') in 0.022346 seconds
+  Import took 0.025497 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Walking/Wraith_01_Moving Forward_007.png
+  artifactKey: Guid(306cc9f5b90b8f9479c08046f604b8dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Walking/Wraith_01_Moving Forward_007.png using Guid(306cc9f5b90b8f9479c08046f604b8dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2e0ece544daa21913672c16dc5c269d') in 0.019022 seconds
+  Import took 0.022005 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Walking/Wraith_01_Moving Forward_004.png
+  artifactKey: Guid(c9a9c7616c79c8f48ab651cf6805e282) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Walking/Wraith_01_Moving Forward_004.png using Guid(c9a9c7616c79c8f48ab651cf6805e282) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1ae708d74e65ef704ac31de0c49b756') in 0.021474 seconds
+  Import took 0.024590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Walking/Wraith_01_Moving Forward_008.png
+  artifactKey: Guid(0e4c235c74f776144a269dee350e14c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Walking/Wraith_01_Moving Forward_008.png using Guid(0e4c235c74f776144a269dee350e14c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d272747c2d6fa380f7be13fec3e5cb2') in 0.019480 seconds
+  Import took 0.022396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Walking/Wraith_01_Moving Forward_006.png
+  artifactKey: Guid(4be2bdf9fd4b2814591fec9d63be8ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Walking/Wraith_01_Moving Forward_006.png using Guid(4be2bdf9fd4b2814591fec9d63be8ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2f501d83e10b397166d0967c360a12b') in 0.019630 seconds
+  Import took 0.022493 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Walking/Wraith_01_Moving Forward_001.png
+  artifactKey: Guid(f6d907f58be7cb84cac421acbe3291c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Walking/Wraith_01_Moving Forward_001.png using Guid(f6d907f58be7cb84cac421acbe3291c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '421af736b0b403ad5d47e855ec4ca9fc') in 0.019855 seconds
+  Import took 0.022714 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Walking/Wraith_01_Moving Forward_002.png
+  artifactKey: Guid(0d46ccd9dd5bb984086049e521e795ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Walking/Wraith_01_Moving Forward_002.png using Guid(0d46ccd9dd5bb984086049e521e795ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2994f87ec43683471299b50226bfa4a') in 0.019039 seconds
+  Import took 0.021847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Walking/Wraith_01_Moving Forward_001.png
+  artifactKey: Guid(f6d907f58be7cb84cac421acbe3291c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Walking/Wraith_01_Moving Forward_001.png using Guid(f6d907f58be7cb84cac421acbe3291c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '421af736b0b403ad5d47e855ec4ca9fc') in 0.012417 seconds
+  Import took 0.015500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Walking/Wraith_01_Moving Forward_003.png
+  artifactKey: Guid(3cc6079f23a64714b99ec8f395b09bc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Walking/Wraith_01_Moving Forward_003.png using Guid(3cc6079f23a64714b99ec8f395b09bc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a66dd5574e38fdff29ae8ebfc1a0983') in 0.023275 seconds
+  Import took 0.026120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Sprites/Units/Wraith_01/PNG Sequences/Walking/Wraith_01_Moving Forward_005.png
+  artifactKey: Guid(2b65fe03d7833b546bbcd90257362824) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_01/PNG Sequences/Walking/Wraith_01_Moving Forward_005.png using Guid(2b65fe03d7833b546bbcd90257362824) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acb34f9a8f03e2b2f23973bb5514159f') in 0.018849 seconds
+  Import took 0.021945 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000719 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.673 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.17 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.5 MB.
+System memory in use after: 88.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2273.
+Total: 2.196700 ms (FindLiveObjects: 0.445500 ms CreateObjectMapping: 0.046400 ms MarkObjects: 1.597100 ms  DeleteObjects: 0.106200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.281729 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Hurt
+  artifactKey: Guid(dec573b3c571d1249977d137351c7615) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Hurt using Guid(dec573b3c571d1249977d137351c7615) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19c467578fa9382672ab0dcb22bca140') in 0.006503 seconds
+  Import took 0.009637 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.900482 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Hurt/Wraith_03_Hurt_000.png
+  artifactKey: Guid(1fdef520868b8ff4cabb3e2b0a8254ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Hurt/Wraith_03_Hurt_000.png using Guid(1fdef520868b8ff4cabb3e2b0a8254ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ceb4d6afc4b6d596b0619e1ef25080d') in 0.052398 seconds
+  Import took 0.055663 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Hurt/Wraith_03_Hurt_007.png
+  artifactKey: Guid(60ba10abf7aff1b43a69a43145cc7f62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Hurt/Wraith_03_Hurt_007.png using Guid(60ba10abf7aff1b43a69a43145cc7f62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80696c52ce2bcb72ccb4f05921e1ba71') in 0.030573 seconds
+  Import took 0.033251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Hurt/Wraith_03_Hurt_003.png
+  artifactKey: Guid(2c8d8244793e3e44592bed1336762d76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Hurt/Wraith_03_Hurt_003.png using Guid(2c8d8244793e3e44592bed1336762d76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36cdf8c4ab3422802d79d80cd0118af7') in 0.020776 seconds
+  Import took 0.023300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Hurt/Wraith_03_Hurt_004.png
+  artifactKey: Guid(b819b69f088109a49a84c693766eb908) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Hurt/Wraith_03_Hurt_004.png using Guid(b819b69f088109a49a84c693766eb908) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08e3fb010e3c18b56ff0d2e66e2a8479') in 0.021994 seconds
+  Import took 0.024578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Hurt/Wraith_03_Hurt_010.png
+  artifactKey: Guid(a59d6560148ae1d4f9cc5b9b623910c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Hurt/Wraith_03_Hurt_010.png using Guid(a59d6560148ae1d4f9cc5b9b623910c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44a8299b7724e146783bebfd5ba2c777') in 0.021391 seconds
+  Import took 0.024402 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Hurt/Wraith_03_Hurt_008.png
+  artifactKey: Guid(52aba7c1a9954644eb36054c56c77406) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Hurt/Wraith_03_Hurt_008.png using Guid(52aba7c1a9954644eb36054c56c77406) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b09505d7de5ed8582eeff7714d20f44f') in 0.020177 seconds
+  Import took 0.022891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Hurt/Wraith_03_Hurt_011.png
+  artifactKey: Guid(8f0bb801722c00546b0fd5cd7c3f0edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Hurt/Wraith_03_Hurt_011.png using Guid(8f0bb801722c00546b0fd5cd7c3f0edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '374045e6edc3fd81e93ad980e2858b5e') in 0.019873 seconds
+  Import took 0.022454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Hurt/Wraith_03_Hurt_006.png
+  artifactKey: Guid(ccf3532c8d002104ba77917f6bfc6635) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Hurt/Wraith_03_Hurt_006.png using Guid(ccf3532c8d002104ba77917f6bfc6635) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4c12412559982fc06eac1ecd02ad90c') in 0.024370 seconds
+  Import took 0.027399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Hurt/Wraith_03_Hurt_001.png
+  artifactKey: Guid(ca3667aa60a64294482fc739971b6943) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Hurt/Wraith_03_Hurt_001.png using Guid(ca3667aa60a64294482fc739971b6943) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91bcdb61aca10bac7e9a27280ce5038c') in 0.018955 seconds
+  Import took 0.021712 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Hurt/Wraith_03_Hurt_005.png
+  artifactKey: Guid(9f360a20019656047ab858ba8829e76c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Hurt/Wraith_03_Hurt_005.png using Guid(9f360a20019656047ab858ba8829e76c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de198d8c670eee8f115bacab2470276e') in 0.029850 seconds
+  Import took 0.032268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Hurt/Wraith_03_Hurt_009.png
+  artifactKey: Guid(fc59c54e603c18647a739fe1f89fd45e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Hurt/Wraith_03_Hurt_009.png using Guid(fc59c54e603c18647a739fe1f89fd45e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '347634a0a63665a0ce82d6dd085d377c') in 0.021241 seconds
+  Import took 0.023756 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Hurt/Wraith_03_Hurt_002.png
+  artifactKey: Guid(3e78c83f5030cf6479e65221cba05da2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Hurt/Wraith_03_Hurt_002.png using Guid(3e78c83f5030cf6479e65221cba05da2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6adffd357c642f9fd520b336e3aa0956') in 0.021809 seconds
+  Import took 0.024348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.245548 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Idle Blink
+  artifactKey: Guid(dc55685356dd97f49a1f6ba271d41078) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Idle Blink using Guid(dc55685356dd97f49a1f6ba271d41078) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4be1fc4bf985da7725103826ec078273') in 0.001953 seconds
+  Import took 0.004616 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.067016 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Idle Blink/Wraith_03_Idle Blinking_000.png
+  artifactKey: Guid(80c99ac53a193364391240d757c92e69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Idle Blink/Wraith_03_Idle Blinking_000.png using Guid(80c99ac53a193364391240d757c92e69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e8dc21261d8db315c6add6d757882f1') in 0.022399 seconds
+  Import took 0.025522 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Idle Blink/Wraith_03_Idle Blinking_007.png
+  artifactKey: Guid(2284e6feac08d5c458a7b3bf163bc3dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Idle Blink/Wraith_03_Idle Blinking_007.png using Guid(2284e6feac08d5c458a7b3bf163bc3dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5da065926e172090c71fbbcb0f9f2e4c') in 0.020037 seconds
+  Import took 0.022909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Idle Blink/Wraith_03_Idle Blinking_010.png
+  artifactKey: Guid(7726aab4d46402a46ba9774894c609ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Idle Blink/Wraith_03_Idle Blinking_010.png using Guid(7726aab4d46402a46ba9774894c609ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94c03b81a58501a3b05271be1cf3c9cd') in 0.026056 seconds
+  Import took 0.029250 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Idle Blink/Wraith_03_Idle Blinking_006.png
+  artifactKey: Guid(f078f5db204926a4097419d04c981faf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Idle Blink/Wraith_03_Idle Blinking_006.png using Guid(f078f5db204926a4097419d04c981faf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c7139df0dbc402c9e68301f28c2aeda') in 0.020073 seconds
+  Import took 0.022580 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Idle Blink/Wraith_03_Idle Blinking_005.png
+  artifactKey: Guid(d235d9fba13b33841b4e7eddebc332d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Idle Blink/Wraith_03_Idle Blinking_005.png using Guid(d235d9fba13b33841b4e7eddebc332d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cfe576e9af2d5bb5ac9963153c5d3ed') in 0.022082 seconds
+  Import took 0.025104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Idle Blink/Wraith_03_Idle Blinking_009.png
+  artifactKey: Guid(61989f00cfbd3a64d9b89964545b0d2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Idle Blink/Wraith_03_Idle Blinking_009.png using Guid(61989f00cfbd3a64d9b89964545b0d2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efea5fbcb9f02beabb09cf7a6dcc1ef2') in 0.023224 seconds
+  Import took 0.026043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Idle Blink/Wraith_03_Idle Blinking_008.png
+  artifactKey: Guid(66ec48ef1a2c58645a4eec55fdb873ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Idle Blink/Wraith_03_Idle Blinking_008.png using Guid(66ec48ef1a2c58645a4eec55fdb873ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '071c5b9d50d27074051afcb4f8a2708f') in 0.022086 seconds
+  Import took 0.025005 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Idle Blink/Wraith_03_Idle Blinking_004.png
+  artifactKey: Guid(784ef03c98d632d448916f84d1918aac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Idle Blink/Wraith_03_Idle Blinking_004.png using Guid(784ef03c98d632d448916f84d1918aac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fa9a1ffc260a28c28f58d19cb0fe103') in 0.020542 seconds
+  Import took 0.023061 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Idle Blink/Wraith_03_Idle Blinking_003.png
+  artifactKey: Guid(c27ae4dfaf8fc1d48956d75e15435fc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Idle Blink/Wraith_03_Idle Blinking_003.png using Guid(c27ae4dfaf8fc1d48956d75e15435fc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7efaf92c0f8dd2616b557a10341dc84b') in 0.023494 seconds
+  Import took 0.026478 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Idle Blink/Wraith_03_Idle Blinking_011.png
+  artifactKey: Guid(acc0b99a905cf8b4b8c729d6b9df4eff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Idle Blink/Wraith_03_Idle Blinking_011.png using Guid(acc0b99a905cf8b4b8c729d6b9df4eff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cdb61d73aa75f012f62efa512369c8f') in 0.038296 seconds
+  Import took 0.041084 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Idle Blink/Wraith_03_Idle Blinking_002.png
+  artifactKey: Guid(240c8a3aeefd87240873f53b6aa751c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Idle Blink/Wraith_03_Idle Blinking_002.png using Guid(240c8a3aeefd87240873f53b6aa751c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f216832f8ba94c210d371f4fa5eced8') in 0.022828 seconds
+  Import took 0.025848 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Idle Blink/Wraith_03_Idle Blinking_001.png
+  artifactKey: Guid(1970230ee02baa04ca1b9845def7b269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Idle Blink/Wraith_03_Idle Blinking_001.png using Guid(1970230ee02baa04ca1b9845def7b269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c227137da766d77bd446f8f47c5f2ecb') in 0.020903 seconds
+  Import took 0.023914 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.381358 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Dying
+  artifactKey: Guid(ef8764cfac989e14c8dff84cc6a76e8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Dying using Guid(ef8764cfac989e14c8dff84cc6a76e8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '000770a9831a1b306bb112e36f651516') in 0.003849 seconds
+  Import took 0.006896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.066156 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Dying/Wraith_03_Dying_000.png
+  artifactKey: Guid(724515e48ea787249bafa00496094cc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Dying/Wraith_03_Dying_000.png using Guid(724515e48ea787249bafa00496094cc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc5fe7b63b3ca8fa900e26ac13f7fa58') in 0.019697 seconds
+  Import took 0.022961 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Dying/Wraith_03_Dying_011.png
+  artifactKey: Guid(5a917623af3a1694990067c9088af295) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Dying/Wraith_03_Dying_011.png using Guid(5a917623af3a1694990067c9088af295) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43c8190ee663a4a0d616e48bcd7edc44') in 0.020578 seconds
+  Import took 0.023341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Dying/Wraith_03_Dying_013.png
+  artifactKey: Guid(85a7568f81784734294eb8f9c8130007) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Dying/Wraith_03_Dying_013.png using Guid(85a7568f81784734294eb8f9c8130007) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd013291d470edc79e430b8f278d00ade') in 0.021396 seconds
+  Import took 0.024069 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Dying/Wraith_03_Dying_004.png
+  artifactKey: Guid(6b9eaa86854d7a742bc1a11eef996f66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Dying/Wraith_03_Dying_004.png using Guid(6b9eaa86854d7a742bc1a11eef996f66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f95de4656b8ef27f93b289c0a85c0d0') in 0.022907 seconds
+  Import took 0.025529 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Dying/Wraith_03_Dying_002.png
+  artifactKey: Guid(124e56514f934e6428be77054c056b55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Dying/Wraith_03_Dying_002.png using Guid(124e56514f934e6428be77054c056b55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6cada40a0a5a3ec36003460f84186ce') in 0.025654 seconds
+  Import took 0.028496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Dying/Wraith_03_Dying_008.png
+  artifactKey: Guid(aa171e42434e2dc439f4f1212e20ab56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Dying/Wraith_03_Dying_008.png using Guid(aa171e42434e2dc439f4f1212e20ab56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fb44e4aa1b3508cb0c73524b648a430') in 0.020215 seconds
+  Import took 0.022874 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Dying/Wraith_03_Dying_005.png
+  artifactKey: Guid(a0d3a4a2244b1794dbba3f0cea3490bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Dying/Wraith_03_Dying_005.png using Guid(a0d3a4a2244b1794dbba3f0cea3490bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8f131e8ef4083ba6e66fe4dc1045623') in 0.669025 seconds
+  Import took 0.671643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Dying/Wraith_03_Dying_014.png
+  artifactKey: Guid(a42b0f1823d5bab4d9c6142b42909642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Dying/Wraith_03_Dying_014.png using Guid(a42b0f1823d5bab4d9c6142b42909642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93b677aec7ce52865bbb2d626f01eb1d') in 0.026784 seconds
+  Import took 0.029337 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Dying/Wraith_03_Dying_003.png
+  artifactKey: Guid(0e9fed0838cbab34695f8fe399886142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Dying/Wraith_03_Dying_003.png using Guid(0e9fed0838cbab34695f8fe399886142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e88cf25b89c2b5974655595895454bc9') in 0.023689 seconds
+  Import took 0.026345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Dying/Wraith_03_Dying_012.png
+  artifactKey: Guid(ae49ff31f40487146ac42011e3f846af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Dying/Wraith_03_Dying_012.png using Guid(ae49ff31f40487146ac42011e3f846af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd67137f53c1e574c5440d4159f5d539') in 0.024205 seconds
+  Import took 0.027200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Dying/Wraith_03_Dying_001.png
+  artifactKey: Guid(9e9ec803b3a19f24e96ec6d47392ab7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Dying/Wraith_03_Dying_001.png using Guid(9e9ec803b3a19f24e96ec6d47392ab7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52ef3e62580ef58f2c9c88b2b763fa5c') in 0.022375 seconds
+  Import took 0.024767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Dying/Wraith_03_Dying_007.png
+  artifactKey: Guid(988978bbf46f9984080bb780bb6d0de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Dying/Wraith_03_Dying_007.png using Guid(988978bbf46f9984080bb780bb6d0de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83ad7525470608ec5f18e01e76599399') in 0.020219 seconds
+  Import took 0.022799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Dying/Wraith_03_Dying_006.png
+  artifactKey: Guid(38e56f98639860748aaab22b56328d61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Dying/Wraith_03_Dying_006.png using Guid(38e56f98639860748aaab22b56328d61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5011e08442e7b8d38f72d918fa27a2ab') in 0.022538 seconds
+  Import took 0.025739 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Dying/Wraith_03_Dying_010.png
+  artifactKey: Guid(7940c5ebefccd944384aee31b0cc3f10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Dying/Wraith_03_Dying_010.png using Guid(7940c5ebefccd944384aee31b0cc3f10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15c4f5124dc066d29f6c473d19e6f3cc') in 0.024851 seconds
+  Import took 0.027620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Dying/Wraith_03_Dying_009.png
+  artifactKey: Guid(11b915556d1fc794eb2839d6f9f591fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Dying/Wraith_03_Dying_009.png using Guid(11b915556d1fc794eb2839d6f9f591fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20dd9ae698df311caf9bfee518f4a4cc') in 0.033187 seconds
+  Import took 0.036430 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.170461 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Casting Spells
+  artifactKey: Guid(78a093a4dcdcd984b8b06afedc06d4f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Casting Spells using Guid(78a093a4dcdcd984b8b06afedc06d4f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8024a6d9efab0068a595ef5a02d2b76') in 0.003012 seconds
+  Import took 0.006379 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.057665 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_000.png
+  artifactKey: Guid(7cd735bc87efd424e8b035d50bca60d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_000.png using Guid(7cd735bc87efd424e8b035d50bca60d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ed903a7eecd3dcdb99d021761c5ecb7') in 0.020548 seconds
+  Import took 0.023659 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_010.png
+  artifactKey: Guid(9c128e3b3833f4a41b64bca551127f20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_010.png using Guid(9c128e3b3833f4a41b64bca551127f20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84edc63878b28c3c2b43df99b630d69e') in 0.020452 seconds
+  Import took 0.023552 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_017.png
+  artifactKey: Guid(eab33702fcc5aa942b830a5e67b93431) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_017.png using Guid(eab33702fcc5aa942b830a5e67b93431) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a942aae859de133642c43ca5582c47fc') in 0.023550 seconds
+  Import took 0.026386 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_009.png
+  artifactKey: Guid(258aeb2ac7388674fb4ff14ecb607bc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_009.png using Guid(258aeb2ac7388674fb4ff14ecb607bc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '146fbc1bc97c39236b7bac76f8ab72db') in 0.022631 seconds
+  Import took 0.025522 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_015.png
+  artifactKey: Guid(3e5801eae7b01ce40b682dd20cf9165d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_015.png using Guid(3e5801eae7b01ce40b682dd20cf9165d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaf2e237f8cccec07bb983b6a20c4ae4') in 0.024094 seconds
+  Import took 0.026565 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_002.png
+  artifactKey: Guid(d071e0ae63ccedc45a934f51dcbd66ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_002.png using Guid(d071e0ae63ccedc45a934f51dcbd66ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '716cf243d6be4a326da3ff3689d7ec3f') in 0.022607 seconds
+  Import took 0.025031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_008.png
+  artifactKey: Guid(3208f9b0d4fa24548b65004d1a97d892) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_008.png using Guid(3208f9b0d4fa24548b65004d1a97d892) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d12302a881323b39746d5b3d0d71621') in 0.021366 seconds
+  Import took 0.024056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_007.png
+  artifactKey: Guid(3fdcb97b7b7150a46b96fdc8d5fb9959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_007.png using Guid(3fdcb97b7b7150a46b96fdc8d5fb9959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdb4d351e29f0bc38b2859ce380cffdb') in 0.020554 seconds
+  Import took 0.023700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_013.png
+  artifactKey: Guid(afea05b49565cf24aab2e6112da57e81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_013.png using Guid(afea05b49565cf24aab2e6112da57e81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d0e5067c1bf71f14e5783bcb4d8c84c') in 0.022478 seconds
+  Import took 0.025547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_004.png
+  artifactKey: Guid(9363a1ef511b78f42b4a2e812cf9bb61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_004.png using Guid(9363a1ef511b78f42b4a2e812cf9bb61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f94bd8358d724fbbb0c6c28c2d20b351') in 0.020760 seconds
+  Import took 0.023631 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_005.png
+  artifactKey: Guid(a31ab63d82050194694cb99611ca41e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_005.png using Guid(a31ab63d82050194694cb99611ca41e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '672ec30d0d6fcb25763bffe8863a0ec4') in 0.019779 seconds
+  Import took 0.022453 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_016.png
+  artifactKey: Guid(9f80501eb87659e40833f128a9cc5ee4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_016.png using Guid(9f80501eb87659e40833f128a9cc5ee4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce5af2dfb2304585bb51f31170263e2f') in 0.020350 seconds
+  Import took 0.022991 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_014.png
+  artifactKey: Guid(fbdffa94384790140bf91fae8b3657ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_014.png using Guid(fbdffa94384790140bf91fae8b3657ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c23f2acad141764854ccf02cecafdfbd') in 0.020544 seconds
+  Import took 0.023377 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_001.png
+  artifactKey: Guid(72554da41d5453b44836b3e157455776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_001.png using Guid(72554da41d5453b44836b3e157455776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01f4d6012a910851e3186252cb5fc562') in 0.020560 seconds
+  Import took 0.023536 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_011.png
+  artifactKey: Guid(a9ee9fb306defb14ab5ab24e0064d7ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_011.png using Guid(a9ee9fb306defb14ab5ab24e0064d7ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2695aab28810d663ecd5d144328091ff') in 0.022991 seconds
+  Import took 0.025911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_012.png
+  artifactKey: Guid(803be22769a7af74795a2485972909e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_012.png using Guid(803be22769a7af74795a2485972909e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '927f51ae26feb41a560cbea4ea0e7e0f') in 0.020134 seconds
+  Import took 0.023335 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_003.png
+  artifactKey: Guid(531a9c59119db204a8b46cbe6f2483b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_003.png using Guid(531a9c59119db204a8b46cbe6f2483b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bf286e18715067acb401c7161db9239') in 0.020246 seconds
+  Import took 0.022725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_006.png
+  artifactKey: Guid(a9c0549a97e1d44419511b9b906894a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_006.png using Guid(a9c0549a97e1d44419511b9b906894a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8020458310ed3ea476b088201c68e5e5') in 0.020581 seconds
+  Import took 0.023095 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.077090 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Attacking
+  artifactKey: Guid(578f0243c66d57c46b05b6d1c8600150) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Attacking using Guid(578f0243c66d57c46b05b6d1c8600150) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a932ba87aec307b3c0a0a871c1824d2f') in 0.009340 seconds
+  Import took 0.012346 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.063608 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Attacking/Wraith_03_Attack_000.png
+  artifactKey: Guid(74962c24a57f2db46a5737efda35aa60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Attacking/Wraith_03_Attack_000.png using Guid(74962c24a57f2db46a5737efda35aa60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f300b9160a53abda2bea9a809f46dd33') in 0.018830 seconds
+  Import took 0.022006 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Attacking/Wraith_03_Attack_002.png
+  artifactKey: Guid(3fdb55d7da5055f4eb147ef08e7a0759) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Attacking/Wraith_03_Attack_002.png using Guid(3fdb55d7da5055f4eb147ef08e7a0759) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d35a8718e7adf942046c0cce0db54ef') in 0.020286 seconds
+  Import took 0.023263 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Attacking/Wraith_03_Attack_003.png
+  artifactKey: Guid(ca26fff3708caa949b71ee6d0f9b5e4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Attacking/Wraith_03_Attack_003.png using Guid(ca26fff3708caa949b71ee6d0f9b5e4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '648ece359b9de85e8e06826ed118af64') in 0.020192 seconds
+  Import took 0.022956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Attacking/Wraith_03_Attack_008.png
+  artifactKey: Guid(7fb1df73715069f49a70a88e2b9f5014) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Attacking/Wraith_03_Attack_008.png using Guid(7fb1df73715069f49a70a88e2b9f5014) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58f59c0e177e74cd0553fce442e89fbf') in 0.021824 seconds
+  Import took 0.024739 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Attacking/Wraith_03_Attack_009.png
+  artifactKey: Guid(664efce2ef58645439b7b475fed4a986) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Attacking/Wraith_03_Attack_009.png using Guid(664efce2ef58645439b7b475fed4a986) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3f075545bc79bfb7e9ee8b5e59b3c41') in 0.022145 seconds
+  Import took 0.024756 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Attacking/Wraith_03_Attack_004.png
+  artifactKey: Guid(b30d58e0e1fefb843a0d5bde8a499489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Attacking/Wraith_03_Attack_004.png using Guid(b30d58e0e1fefb843a0d5bde8a499489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f0807d7f72344b32a3632877990168e') in 0.019937 seconds
+  Import took 0.022586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Attacking/Wraith_03_Attack_005.png
+  artifactKey: Guid(9328f2f7ed9295145ade3d4b4b87130f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Attacking/Wraith_03_Attack_005.png using Guid(9328f2f7ed9295145ade3d4b4b87130f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e92db9324eaf21e5fa50cd61efa408dd') in 0.019525 seconds
+  Import took 0.022389 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Attacking/Wraith_03_Attack_006.png
+  artifactKey: Guid(8c00541676dbbfb4c92d939d116bd643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Attacking/Wraith_03_Attack_006.png using Guid(8c00541676dbbfb4c92d939d116bd643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e4775e4652897c131570dc5ef3205ca') in 0.019414 seconds
+  Import took 0.022210 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Attacking/Wraith_03_Attack_007.png
+  artifactKey: Guid(d8b82f13fda450843b3b5b83d9360edc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Attacking/Wraith_03_Attack_007.png using Guid(d8b82f13fda450843b3b5b83d9360edc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '481814c63ef44b1a780168a778a03a28') in 0.019948 seconds
+  Import took 0.022781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Attacking/Wraith_03_Attack_011.png
+  artifactKey: Guid(85888a188eee5644cb87b53b2a1584ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Attacking/Wraith_03_Attack_011.png using Guid(85888a188eee5644cb87b53b2a1584ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7195df0883ed6a657d3e4bf8a6d9541c') in 0.019012 seconds
+  Import took 0.021805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Attacking/Wraith_03_Attack_001.png
+  artifactKey: Guid(c348502139da7054abc14b1a5e6bdca9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Attacking/Wraith_03_Attack_001.png using Guid(c348502139da7054abc14b1a5e6bdca9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c39766030ce446dab10d0b764a2a07eb') in 0.020749 seconds
+  Import took 0.024044 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Attacking/Wraith_03_Attack_010.png
+  artifactKey: Guid(eb377dda271659844b221558f2b280f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Attacking/Wraith_03_Attack_010.png using Guid(eb377dda271659844b221558f2b280f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87b2783b545e5eb44c325d3df6c90b56') in 0.020501 seconds
+  Import took 0.022971 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.175460 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Walking
+  artifactKey: Guid(e7b2de934f5286d40b281d4d235ac543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Walking using Guid(e7b2de934f5286d40b281d4d235ac543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8d0298a59a130edb6f946ae984940d8') in 0.002181 seconds
+  Import took 0.005031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.053145 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Walking/Wraith_03_Moving Forward_000.png
+  artifactKey: Guid(ccd04d33c6b39334a81a6f0ea1e75833) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Walking/Wraith_03_Moving Forward_000.png using Guid(ccd04d33c6b39334a81a6f0ea1e75833) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1481b4d7bcd708e57eaf28474ab99563') in 0.020164 seconds
+  Import took 0.023603 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Walking/Wraith_03_Moving Forward_009.png
+  artifactKey: Guid(54222377c6c4689478cc96ef821444c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Walking/Wraith_03_Moving Forward_009.png using Guid(54222377c6c4689478cc96ef821444c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc03c5435b8d987e4d06c31d72db8bf6') in 0.019351 seconds
+  Import took 0.022443 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Walking/Wraith_03_Moving Forward_008.png
+  artifactKey: Guid(ebccf8e9e0c82544f8ba4958de0fabc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Walking/Wraith_03_Moving Forward_008.png using Guid(ebccf8e9e0c82544f8ba4958de0fabc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8cac50ab086864818fea570686cb5db') in 0.022168 seconds
+  Import took 0.024863 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Walking/Wraith_03_Moving Forward_007.png
+  artifactKey: Guid(e4c3fb432ee996844950e68660ff06f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Walking/Wraith_03_Moving Forward_007.png using Guid(e4c3fb432ee996844950e68660ff06f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44bb72257d099698503dd95195c2ec7b') in 0.019280 seconds
+  Import took 0.021901 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Walking/Wraith_03_Moving Forward_004.png
+  artifactKey: Guid(868b8ad9d5e7e414597b37ead5f1b687) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Walking/Wraith_03_Moving Forward_004.png using Guid(868b8ad9d5e7e414597b37ead5f1b687) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a499a8fe521efa3a008c4428f175b7c') in 0.019461 seconds
+  Import took 0.022519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Walking/Wraith_03_Moving Forward_011.png
+  artifactKey: Guid(e2fad781c7e22f84bb323e842a705a00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Walking/Wraith_03_Moving Forward_011.png using Guid(e2fad781c7e22f84bb323e842a705a00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c30e2c259464a4956bd93fa546bec6b4') in 0.018915 seconds
+  Import took 0.022257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Walking/Wraith_03_Moving Forward_003.png
+  artifactKey: Guid(4dc1205abb1c73b458595314de8dbce5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Walking/Wraith_03_Moving Forward_003.png using Guid(4dc1205abb1c73b458595314de8dbce5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99a6d303125c81f23a1223cb19c55755') in 0.018574 seconds
+  Import took 0.021136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Walking/Wraith_03_Moving Forward_005.png
+  artifactKey: Guid(ca258dc3b6732f34886a04f257f5263e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Walking/Wraith_03_Moving Forward_005.png using Guid(ca258dc3b6732f34886a04f257f5263e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d7b191b183fa414015d2cc37bca218d') in 0.022042 seconds
+  Import took 0.024977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Walking/Wraith_03_Moving Forward_001.png
+  artifactKey: Guid(7b1b97d022a9ed546877f768536e516c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Walking/Wraith_03_Moving Forward_001.png using Guid(7b1b97d022a9ed546877f768536e516c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a312c4323ea47e1641541423a7702f3e') in 0.019292 seconds
+  Import took 0.022526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Walking/Wraith_03_Moving Forward_002.png
+  artifactKey: Guid(283650ef054a3b54593955fb35c93294) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Walking/Wraith_03_Moving Forward_002.png using Guid(283650ef054a3b54593955fb35c93294) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94fe60eb3ecb7dcafb436f412317ae4a') in 0.022203 seconds
+  Import took 0.025179 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Walking/Wraith_03_Moving Forward_010.png
+  artifactKey: Guid(2be23bc571c355d47a53cd84bab55a4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Walking/Wraith_03_Moving Forward_010.png using Guid(2be23bc571c355d47a53cd84bab55a4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35b9e1f7a7d0c79bdb805965c5ea5fde') in 0.020704 seconds
+  Import took 0.023743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/Sprites/Units/Wraith_03/PNG Sequences/Walking/Wraith_03_Moving Forward_006.png
+  artifactKey: Guid(4757b0c2b05b74f4f9fca7750fcbddf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Units/Wraith_03/PNG Sequences/Walking/Wraith_03_Moving Forward_006.png using Guid(4757b0c2b05b74f4f9fca7750fcbddf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8338b8e4fc03ab21b00c70ec81a6f7bf') in 0.021827 seconds
+  Import took 0.024556 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000875 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.663 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.6 MB.
+System memory in use after: 88.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2278.
+Total: 2.179100 ms (FindLiveObjects: 0.262300 ms CreateObjectMapping: 0.042800 ms MarkObjects: 1.758800 ms  DeleteObjects: 0.113400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000677 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.675 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.6 MB.
+System memory in use after: 88.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2282.
+Total: 2.563800 ms (FindLiveObjects: 0.371300 ms CreateObjectMapping: 0.052500 ms MarkObjects: 2.020400 ms  DeleteObjects: 0.118500 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

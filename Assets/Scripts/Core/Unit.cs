@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 
 namespace Core
@@ -6,7 +7,8 @@ namespace Core
     {
         [SerializeField] private int health = 10;
 
-        private int goldDroppedOnDeath;
+        private Animator _animator;
+        private int _goldDroppedOnDeath = 1;
         
         public int Health
         {
@@ -16,17 +18,40 @@ namespace Core
 
         public int GoldDroppedOnDeath
         {
-            set => goldDroppedOnDeath = value;
+            set => _goldDroppedOnDeath = value;
+        }
+
+        private void Awake()
+        {
+            _animator = GetComponentInChildren<Animator>();
+        }
+
+        private void Start()
+        {
+            _goldDroppedOnDeath = health / 10;
         }
 
         public void TakeDamage(int amount)
         {
-            throw new System.NotImplementedException();
+            if (_animator != null)
+            {
+                _animator.SetTrigger("Hurt");
+
+                health -= amount;
+
+                if (health <= 0)
+                {
+                    Die();
+                }
+            }
+            
         }
 
         public void Die()
         {
-            GoldManager.OnIncreaseGold(goldDroppedOnDeath);
+            _animator.SetBool("IsDead", true);
+            GoldManager.OnIncreaseGold(_goldDroppedOnDeath);
+            // Destroy(gameObject, 0.12f);
         }
     }
 }

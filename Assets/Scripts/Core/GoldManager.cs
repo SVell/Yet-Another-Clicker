@@ -7,7 +7,7 @@ namespace Core
    {
       public static Action<int> OnIncreaseGold; 
       
-      [SerializeField] private int currentGold = 0;
+      [SerializeField] private int currentGold;
 
       private void OnEnable()
       {
