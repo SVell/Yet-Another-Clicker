@@ -3,7 +3,7 @@ using UnityEngine;
 
 namespace Core
 {
-    public class Timer : MonoBehaviour
+    public class GoldTimer : MonoBehaviour
     {
         [SerializeField] private float timerOffset = 1f;
         private float _timer;
@@ -19,14 +19,24 @@ namespace Core
 
         private void Start()
         {
-            _dateTime = DateTime.Parse(PlayerPrefs.GetString("Date"));
             GetAFKGold();
+        }
+
+        private void OnApplicationFocus(bool hasFocus)
+        {
+            if (!hasFocus)
+            {
+                SaveCurrentDate();
+            }
+            else
+            {
+                GetAFKGold();
+            }
         }
 
         private void OnApplicationQuit()
         {
-            PlayerPrefs.SetString("Date", DateTime.Now.ToString());
-            Debug.Log("Time of last enter: " + PlayerPrefs.GetString("Date"));
+            SaveCurrentDate();
         }
         
         private void Update()
@@ -42,11 +52,22 @@ namespace Core
 
         private void GetAFKGold()
         {
+            // Get date of last enter
+            _dateTime = DateTime.Parse(PlayerPrefs.GetString("Date"));
+            
+            // Calculate seconds since last enter
             TimeSpan timeSpan = DateTime.Now.Subtract(_dateTime);
             int seconds = (int)timeSpan.TotalSeconds;
             Debug.Log("Seconds: " + seconds);
             
+            // Give gold to player
             _goldManager.GoldTick((int)(seconds / timerOffset));
+        }
+
+        private void SaveCurrentDate()
+        {
+            PlayerPrefs.SetString("Date", DateTime.Now.ToString());
+            Debug.Log("Time of last enter: " + PlayerPrefs.GetString("Date"));
         }
     }
 }

@@ -15,8 +15,8 @@
             <e p="Clicker.cs" t="Include" />
             <e p="EnemyController.cs" t="Include" />
             <e p="GoldManager.cs" t="Include" />
+            <e p="GoldTimer.cs" t="Include" />
             <e p="IDamageable.cs" t="Include" />
-            <e p="Timer.cs" t="Include" />
             <e p="Unit.cs" t="Include" />
           </e>
         </e>
