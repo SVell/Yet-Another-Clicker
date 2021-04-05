@@ -7,13 +7,16 @@
       <e p=".git\info\exclude" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="DieAnimationFinish.cs" t="Include" />
         <e p="Scripts" t="Include">
+          <e p="Animation" t="Include">
+            <e p="DieAnimationFinish.cs" t="Include" />
+          </e>
           <e p="Core" t="Include">
             <e p="Clicker.cs" t="Include" />
             <e p="EnemyController.cs" t="Include" />
             <e p="GoldManager.cs" t="Include" />
             <e p="IDamageable.cs" t="Include" />
+            <e p="Timer.cs" t="Include" />
             <e p="Unit.cs" t="Include" />
           </e>
         </e>

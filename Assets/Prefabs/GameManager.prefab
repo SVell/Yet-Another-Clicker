@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 73616289607282375}
   - component: {fileID: 4728142032441571579}
   - component: {fileID: 5594009294058723501}
+  - component: {fileID: 4631159158875669624}
   m_Layer: 0
   m_Name: GameManager
   m_TagString: Untagged
@@ -60,6 +61,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   enemies: []
+  _currentEnemy: {fileID: 0}
 --- !u!114 &5594009294058723501
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -73,3 +75,32 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   currentGold: 0
+  goldPerTick: 1
+--- !u!114 &4631159158875669624
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7278525700456365072}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3808f7129d87a9d4f8e741ba9404ac89, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  OnTimerEnd:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 5594009294058723501}
+        m_TargetAssemblyTypeName: Core.GoldManager, Assembly-CSharp
+        m_MethodName: GoldTick
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  timerOffset: 1

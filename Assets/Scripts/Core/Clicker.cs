@@ -23,6 +23,16 @@ namespace Core
             }
         }
 
+        public void IncreaseDamage(int amount)
+        {
+            damage += amount;
+        }
+
+        public void IncreaseDamageMultiplier(int amount)
+        {
+            damageMultiplier += amount;
+        }
+
         private void DoDamage()
         {
             _enemyController.ApplyDamageToUnit(GetDamage());
